@@ -51,7 +51,7 @@ linkedin_username: kevin-vo-60b7b220a
 # about_profile_image: images/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
-  My name is Kevin Vo and I am currently a student pursuing a Bachelor of Science in Computer Science at Oregon State University and will be a software development intern at Amazon in Summer 2022.
+  My name is Kevin Vo and I am currently a student pursuing a Bachelor of Science in Computer Science at Oregon State University and an incoming software development intern at Amazon for Summer 2022.
   
   <mark>Languages:</mark> C/C++, Python, Java, JavaScript, HTML, CSS, SQL
   
@@ -72,7 +72,7 @@ content:
         link: Amazon.com
         # link_text: boringcompany.com
         sub_title: Software Development Engineer - Intern
-        caption: August 2022 - Present
+        caption: June 2022 - Present
         quote: >
            “Work Hard. Have Fun. Make History.”
         description: | # this will include new lines to allow paragraphs
